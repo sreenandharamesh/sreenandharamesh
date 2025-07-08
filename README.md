@@ -26,17 +26,10 @@ I enjoy solving real-world problems using code and AI, especially when it create
 Languages: Python, C, SQL, HTML, CSS
 Frameworks/Tools: Flask, Django, Scikit-learn, NLP
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreenandharamesh&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=sreenandharamesh&theme=radical&hide_border=true" width="48%"/>
-</p>
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreenandharamesh&theme=algolia&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sreenandharamesh&theme=algolia&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 
