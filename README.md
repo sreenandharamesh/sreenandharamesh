@@ -44,9 +44,8 @@ I enjoy solving real-world problems using code and AI, especially when it create
 <p align="center">
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-43853D?style=for-the-badge&logo=spaCy&logoColor=white"/>
 </p>
 
