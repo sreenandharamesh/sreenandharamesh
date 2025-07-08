@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Sreenandha 👋</h1>
 
-<!--
-**sreenandharamesh/sreenandharamesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 B.Tech in Computer Science & AI | 👩‍💻 AI & Software Developer | 📍 Kochi, Kerala
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+I'm a motivated Computer Science student specializing in **Artificial Intelligence**, with hands-on experience in:
+
+- 🔍 Machine Learning & NLP
+- 🧠 Conversational AI
+- 🌐 Full-Stack Web Development
+- 🩺 AI for Healthcare
+- 🎓 Educational Tools
+
+I enjoy solving real-world problems using code and AI, especially when it creates **meaningful social impact**.
+
+---
+
+### ⚒️ Tech Stack
+
+```python
+Languages: Python, C, SQL, HTML, CSS
+Frameworks/Tools: Flask, Django, Scikit-learn, NLP
+
